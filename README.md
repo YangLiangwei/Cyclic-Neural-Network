@@ -1,4 +1,5 @@
 # Cyclic-Neural-Network
+conda env create -f env.yml
 
 python main.py
 
